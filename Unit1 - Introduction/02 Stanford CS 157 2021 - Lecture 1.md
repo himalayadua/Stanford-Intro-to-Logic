@@ -4,6 +4,7 @@
 
 Elements of Logic
 - Premises
+- Conclusions
 
 Example: Simplified end result
 
@@ -36,3 +37,9 @@ Based on above premises, following must be true:
     - Dean likes Sam
 
 
+### Ways to do logical reasoning
+- Model checking
+    - let computer run all 65k combinations and match them with the given conditions
+    - where there's a match, there will be extra info that can be concluded
+- Symbolic manipulation
+    - 
