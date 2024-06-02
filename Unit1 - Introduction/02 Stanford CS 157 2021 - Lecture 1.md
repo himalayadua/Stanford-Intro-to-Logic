@@ -5,7 +5,9 @@
 **Notes**
 - Elements of Logic
     - 
-- Example
+
+Example:
+
 |         | Sam | Dean | Castiel | Ruby |
 |---------|-----|------|---------|------|
 | Sam     |     |      | ✔️       |      |
